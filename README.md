@@ -1,4 +1,4 @@
 # my-smart-crop-app
 this is my third repository
-author=prachi
+author=prachi d
 
